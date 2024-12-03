@@ -8,65 +8,13 @@
 
 1. [Descriptive analysis: Walmart 2](#_bookmark0)
 
-[Background on Walmart 2](#_bookmark1)
+2. [Diagnostic analysis: Cork company in Portugal 6](#_bookmark8)
 
-[What is descriptive analysis? 2](#_bookmark2)
+3. [Predictive analysis: Netflix 9](#_bookmark16)
 
-[Data analytics approaches and methods. 3](#_bookmark3)
+4. [Prescriptive analysis: The Coca Cola Company 12](#_bookmark23)
 
-[How does Walmart use descriptive data to improve business operations? 3](#_bookmark4)
-
-[Challenges 5](#_bookmark5)
-
-[Legislation on ethics and data privacy 5](#_bookmark6)
-
-[Conclusion 6](#_bookmark7)
-
-1. [Diagnostic analysis: Cork company in Portugal 6](#_bookmark8)
-
-[Background of Cork History and its challenge 6](#_bookmark9)
-
-[What is diagnostic analysis? 6](#_bookmark10)
-
-[How does the Cork Company use descriptive analytics? 7](#_bookmark11)
-
-[Data analytics approaches and methods. 7](#_bookmark12)
-
-[Challenges 8](#_bookmark13)
-
-[Legislation on ethics and data privacy 8](#_bookmark14)
-
-[Conclusion 9](#_bookmark15)
-
-1. [Predictive analysis: Netflix 9](#_bookmark16)
-
-[Background on Netflix 9](#_bookmark17)
-
-[What is predictive analysis? 10](#_bookmark18)
-
-[How does Netflix use predictive analysis? 10](#_bookmark19)
-
-[Challenges 11](#_bookmark20)
-
-[Legislation on ethics and data privacy 11](#_bookmark21)
-
-[Conclusion 12](#_bookmark22)
-
-1. [Prescriptive analysis: The Coca Cola Company 12](#_bookmark23)
-
-[Background of The Coca Cola Company 12](#_bookmark24)
-
-[What is prescriptive analysis? 13](#_bookmark25)
-
-[How does Coca Cola use prescriptive analysis? 13](#_bookmark26)
-
-[Challenges 14](#_bookmark27)
-
-[Legislation on ethics and data privacy 14](#_bookmark28)
-
-[Conclusion 15](#_bookmark29)
-
-1. [References 15](#_bookmark30)
+5. [References 15](#_bookmark30)
 
 ## 1. Descriptive analysis: Walmart Background on Walmart
 
@@ -229,7 +177,7 @@ Lengyel (2021), highlights the need for Netflix to consider user-centric key-per
 
 Netflix faces challenges in the industry due to the competition from other streaming services. Predictive analytics, specifically the recommendation system, improves user experience and provides users with personalized recommendations which could increase user usage of the platform that gives Netflix a competitive advantage in the streaming industry. To ensure that Netflix does not break the privacy laws when using the predictive analytics, Netflix applies its Privacy Statement and Terms of Use.
 
-## Prescriptive analysis: The Coca Cola Company Background of The Coca Cola Company
+## 4. Prescriptive analysis: The Coca Cola Company Background of The Coca Cola Company
 
 The Coca Cola Company produces carbonated soft drinks and juices. Coca Cola was founded by Dr. John Pemberton in Atlanta United States of America in 1886 (The Coca Cola Company. n.d). It is now sold worldwide. One of the key challenges that Coca cola is experiencing is coming up with new soft drink favours that meets the market demands. As a result, Coca Cola has been using prescriptive analysis to understand the needs of the consumers and come up with new drink favours (Mixson, 2022).
 
@@ -269,7 +217,7 @@ distribution partners, advertising agencies, and analytics providers, could be c
 
 Coca-Cola uses prescriptive analysis to come up with new drink flavours that meets the consumer needs. By using prescriptive analytics, the company is better equipped to understand consumer trends and preferences, introduce new flavours, and remain relevant in the future. However, implementing prescriptive analysis can present challenges such as the need for advanced analytical techniques, changes to existing business processes, and the potential for duplicate systems within hierarchical organizations. Nonetheless, Coca Cola has demonstrated a commitment to privacy and data protection by adhering to legislation such as the POPIA and implementing measures to obtain user consent and provide opt-out preferences. Overall, prescriptive analysis has proven to be a valuable tool for Coca Cola in driving innovation and meeting customer needs in the highly competitive beverage industry.
 
-## References
+## 5. References
 
 - 1. AI of Things. 2021. _Telefonica. Coca-Cola’s use of AI to stay at the top of the drinks market._ Blog. Available from: <https://business.blogthinkbig.com/coca-colas-use-of-ai-> to-stay-at-the-top-of-the-drinks-market/. \[26 March 2023\]
   2. Cheng, Y., Liu, F., Jing, S., Xu, W. & Chau, D. Building Big Data Processing and Visualization Pipeline through Apache Zeppelin. 2018. _ACM_, 1-7. <https://doi.org/10.1145/3219104.3229288>. \[36 March 2023\]
