@@ -68,7 +68,7 @@
 
 1. [References 15](#_bookmark30)
 
-## Descriptive analysis: Walmart Background on Walmart
+## 1. Descriptive analysis: Walmart Background on Walmart
 
 Walmart is a multinational retail corporation that was founded in 1962 in Arkansas, United States of America by Sam Walton (Walmart(a), n.d). It is currently one of the largest retailer in the world, with over 10 900 stores in 27 countries, and employs more than 2 million people. Walmart operates a variety of retail formats, including online stores and hypermarkets.(ProjectPro, 2023).
 
@@ -126,7 +126,7 @@ Moreover, Sello et.al 2019, mentioned that to protect privacy during the data pr
 
 Walmart is a leader in the retail industry and operates in many countries worldwide. Walmart has to remain competitive and understand its business trends and customer needs in order to manage resources wisely. With the use of big data analytics, Walmart can analyze complex datasets and gain valuable insights into customer behaviour, trends, and preferences in line with the countries privacy policies and ethics. Descriptive data analysis is one of the methods used by Walmart to analyze data and provide a clear picture of what happened in the past. Through data analysis, Walmart is improving its marketing and product development strategies and manage its resources wisely to maximize returns.
 
-## Diagnostic analysis: Cork company in Portugal Background of Cork History and its challenge
+## 2. Diagnostic analysis: Cork company in Portugal Background of Cork History and its challenge
 
 Silva et al., (2020), conducted a study on absenteeism in a Cork manufacturing factory in Portugal with 350 staff. This study took place at a cork stoppers producer. The cork company has a problem of high daily absenteeism rates which result in a drop in a company’s productivity and hence affecting revenue generation, costing the cork company EUR 1 200 000 per year. The objectives of the study were to find out what causes absenteeism of employers and identify the most sectors at the company which have the highest percentage of absenteeism, quantify its impact on related outcomes and identify issues of absenteeism causes.
 
@@ -180,7 +180,7 @@ The study on absenteeism in a Cork manufacturing company revealed a significant 
 
 In terms of ethics and data privacy, the study adhered to strict guidelines and regulations. Universities involved in the research maintained ethics committees to ensure informed consent was obtained from participants. Compliance with legal frameworks, such as the GDPR in Europe and the POPIA in South Africa, safeguarded data privacy and protected against fraudulent misrepresentation.
 
-## Predictive analysis: Netflix Background on Netflix
+## 3. Predictive analysis: Netflix Background on Netflix
 
 Netflix was found in 1997 by Reed Hastings and Marc Randolph, it is now available in more than
 
